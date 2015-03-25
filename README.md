@@ -3,7 +3,7 @@
 ## Installation
 
 * Ladda ner och installera Node.js från [nodejs.org](https://nodejs.org/)
-* Installera Gulp CLI via terminalen:
+* Installera Gulp via terminalen:
 ```sh
 $ npm install --g gulp
 ```
