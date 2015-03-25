@@ -5,7 +5,7 @@
 * Ladda ner och installera Node.js från [nodejs.org](https://nodejs.org/)
 * Installera Gulp via terminalen:
 ```sh
-$ npm install --g gulp
+$ npm install -g gulp
 ```
 * Klona repot och installera dependencies:
 ```sh
