@@ -36,3 +36,4 @@ gulp.task('watch', function() {
 });
 
 gulp.task('default', ['browserify', 'copy', 'watch', 'webserver']);
+gulp.task('dist', ['browserify', 'copy']);

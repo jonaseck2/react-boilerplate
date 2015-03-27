@@ -10,7 +10,7 @@ ADD . /app
 
 WORKDIR /app
 
-RUN gulp
+RUN gulp dist
 
 EXPOSE 3999
 
